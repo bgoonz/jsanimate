@@ -15,7 +15,8 @@ random color and shape generator using canvas, Javascript and the Paper.js libra
 
 # DEMO:
 
-![demo](./images/demo.gif)
+![](images/demo.gif)
+
 
 
 
